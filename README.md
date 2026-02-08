@@ -27,9 +27,13 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ##### 一、准备环境
 确认你本地有 **Node.js**：
 node -v
+
 npm -v
+
 如果没有，先去装 Node.js，[Node.js — 在任何地方运行 JavaScript](https://nodejs.org/zh-cn)
+
 ![alt text](<doc-image/Pasted image 20260208164129.png>)
+
 这里如果版本不对应会有警告（如果继续用现在的 npm 可能会遇到奇怪问题（安装依赖报错、CLI 异常等））：
 ![alt text](<doc-image/Pasted image 20260208164916.png>)
 需要升级npm或者调整Node.js版本。
@@ -37,9 +41,11 @@ npm -v
 npm install -g @vue/cli
 ![alt text](doc-image/image.png)
 ![alt text](<doc-image/屏幕截图 2026-02-08 162400.png>)
+
 **Vue CLI 安装成功**，这里可以正常使用 `vue` 命令。
 输入vue --version
 ![alt text](<doc-image/屏幕截图 2026-02-08 162508.png>)
+
 关于**Vue CLI ：Vue CLI（Command Line Interface）** 是官方提供的 **Vue.js 项目脚手架工具**，用于快速创建和管理 Vue 项目。Vue 官方文档明确指出：
 
 > ⚠️ **Vue CLI 现已处于维护模式！**
