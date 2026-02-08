@@ -30,7 +30,7 @@ node -v
 
 npm -v
 
-如果没有，先去装 Node.js，[Node.js — 在任何地方运行 JavaScript](https://nodejs.org/zh-cn)
+如果没有，需要先去装 Node.js，[Node.js — 在任何地方运行 JavaScript](https://nodejs.org/zh-cn)
 
 ![alt text](<doc-image/Pasted image 20260208164129.png>)
 
